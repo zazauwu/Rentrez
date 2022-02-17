@@ -4,6 +4,8 @@ author: "Zhijun Li"
 date: "16/02/2022"
 output: pdf_document
 ---
+Github Link: https://github.com/zazauwu/Rentrez
+
 ## Import the Sequences.csv file
 ```{r}
 Data <- read.csv("A5_LI_ZHIJUN_Sequences.csv")
